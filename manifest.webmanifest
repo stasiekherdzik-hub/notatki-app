@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Notatki — prywatny dziennik",
+  "short_name": "Notatki",
+  "description": "Prywatny dziennik, aktywności, cele i podsumowania.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4f5",
+  "theme_color": "#202a35",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ]
+}
